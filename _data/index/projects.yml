@@ -15,6 +15,11 @@
 # img: /static/assets/img/landing/leetcode.png
 # desc: This project is other's project. I use another request to get repo's information.
 
+- name: Project Management Information System
+  i18n: MP
+  img: /static/assets/img/landing/putra-pratama.JPG
+  desc: This Project is my project in 2017, i create this website for a company.
+  
 - name: Customer Relationship Management Web Application
   i18n: CRM
   img: /static/assets/img/landing/mg15.JPG
