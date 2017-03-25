@@ -4,6 +4,8 @@
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
-## <a name="ad"></a>Ad
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
+Special Thanks to Jarrekk for the theme.
+Original Source:
+<https://jarrekk.github.io/Jalpc/>
+
 
