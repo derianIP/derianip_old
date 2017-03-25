@@ -15,7 +15,7 @@
 # img: /static/assets/img/landing/leetcode.png
 # desc: This project is other's project. I use another request to get repo's information.
 
-- name: Forum
+- name: Company Profile And Forum
   i18n: Forum
   img: /static/assets/img/landing/ben.JPG
   desc: This Project is my project in 2015, i create this website for practical work company
