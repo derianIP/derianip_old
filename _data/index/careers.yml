@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: CV. BEN SOLUTION
+    detail: Graduation
     i18n: company_a
   desc:
-    detail: creating website for a company
+    detail: i graduated from Indonesia Computer University (UNIKOM)
     i18n: company_a_desc
   date:
-    detail: 2015
+    detail: 2017
     i18n: company_a_date
   job:
     detail: Web Developer
     i18n: company_a_job
-  icon: fa-plus-square
-
+  icon: fa-graduation-cap
+  
 - name:
-    detail: CV. Mekar Utama Komputer
+    detail: CV. BEN SOLUTION
     i18n: company_b
   desc:
-    detail: practical work
+    detail: creating website for a company
     i18n: company_b_desc
   date:
-    detail: 2010
+    detail: 2015
     i18n: company_b_date
   job:
     detail: Web Developer
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: CV. Mekar Utama Komputer
+    i18n: company_c
+  desc:
+    detail: practical work
+    i18n: company_c_desc
+  date:
+    detail: 2010
+    i18n: company_c_date
+  job:
+    detail: Web Developer
+    i18n: company_c_job
   icon: fa-plus-square
