@@ -34,3 +34,8 @@
   i18n: Cash
   img: /static/assets/img/landing/harumsari.JPG
   desc: This Project is my project in 2014, i create this website for harumsari store.
+
+- name: Supply Chain Management
+  i18n: MP
+  img: 
+  desc: This Project is my project in 2017, i create this website for a company.
