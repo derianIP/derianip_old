@@ -15,7 +15,7 @@
 # img: /static/assets/img/landing/leetcode.png
 # desc: This project is other's project. I use another request to get repo's information.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
+- name: Forum
+  i18n: Forum
   img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  desc: This Project is my project in 2015, i create this website for practical work company
