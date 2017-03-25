@@ -28,14 +28,9 @@
 - name: Company Profile And Forum
   i18n: Forum
   img: /static/assets/img/landing/ben.JPG
-  desc: This Project is my project in 2015, i create this website for practical work company
+  desc: This Project is my project in 2015, i create this website for a company
   
 - name: Cash Register Web Aplication
   i18n: Cash
   img: /static/assets/img/landing/harumsari.JPG
   desc: This Project is my project in 2014, i create this website for harumsari store.
-
-- name: Supply Chain Management
-  i18n: SCM
-  img: /static/assets/img/landing/ben.JPG
-  desc: This Project is my project in 2017, i create this website for a company.
