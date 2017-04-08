@@ -28,7 +28,7 @@ This Project is my project in 2017, i create this website using CodeIgniter and 
 
 	<img src="{{ site.img_path }}/sim-proyek/gantt_chart.JPG" width="75%">
 
-	<img src="{{ site.img_path }}/sim-proyek/jaringan_pdm.JPG" width="75%">
+	<img src="{{ site.img_path }}/sim-proyek/jaringan_PDM.JPG" width="75%">
 
 	<img src="{{ site.img_path }}/sim-proyek/EVM.JPG" width="75%">
 
