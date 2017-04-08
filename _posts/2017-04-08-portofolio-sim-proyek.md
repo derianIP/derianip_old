@@ -17,3 +17,5 @@ This Project is my project in 2017, i create this website using CodeIgniter and 
 
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<img src="{{ site.img_path }}/sim-proyek/beranda.JPG" width="75%">
+
+	<img src="{{ site.img_path }}/sim-proyek/detail_pekerjaan.JPG" width="75%">
