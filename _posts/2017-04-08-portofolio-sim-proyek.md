@@ -11,6 +11,6 @@ icon: icon-html
 
 Project Management Information System
 
-1. 
+1. Screenshoot Project
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<img src="{{ site.img_path }}/sim-proyek/beranda.JPG" width="75%">
