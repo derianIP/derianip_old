@@ -12,6 +12,14 @@ icon: icon-html
 Project Management Information System
 
 This Project is my project in 2017, i create this website using CodeIgniter and MySQL database.
+Other Tools: 
+ * Bootstrap 3.
+ * echarts
+ * chartjs 
+ * fusioncharts - Gantt Chart
+ * font-awesome
+ * Select2
+ * pdfmake
 
 1. Screenshoot Project
 
