@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sistem Informasi Manajemen Proyek"
-date:   2017-01-31
+date:   2017-04-08
 desc: "Sistem Informasi Manajemen Proyek using CodeIgniter"
 keywords: "Sistem informasi, manajemen Proyek, codeigniter"
 categories: [Portofolio]
