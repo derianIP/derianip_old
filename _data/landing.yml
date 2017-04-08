@@ -20,7 +20,7 @@
 
 - id: portofolio
   i18n: nav.projects
-  name: Projects
+  name: Portofolio
   tpl: projects.html
   css: project
 
