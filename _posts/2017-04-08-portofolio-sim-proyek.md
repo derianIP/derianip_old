@@ -9,7 +9,7 @@ tags: [Information System,Project Management,CodeIgniter]
 icon: icon-html
 ---
 
-** Project Management Information System **
+**Project Management Information System**
 
 This Project is my project in 2017, i create this website using CodeIgniter and MySQL database.
 
