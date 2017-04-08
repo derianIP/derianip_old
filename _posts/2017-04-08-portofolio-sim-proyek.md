@@ -37,7 +37,7 @@ Other Tools:
 
 	<img src="{{ site.img_path }}/sim-proyek/gantt_chart.JPG" width="75%">
 
-	<img src="{{ site.img_path }}/sim-proyek/jaringan_PDM.JPG" width="75%">
+	<img src="{{ site.img_path }}/sim-proyek/Jaringan_PDM.JPG" width="75%">
 
 	<img src="{{ site.img_path }}/sim-proyek/EVM.JPG" width="75%">
 
