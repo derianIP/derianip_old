@@ -14,5 +14,6 @@ Project Management Information System
 This Project is my project in 2017, i create this website using CodeIgniter and MySQL database.
 
 1. Screenshoot Project
+
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<img src="{{ site.img_path }}/sim-proyek/beranda.JPG" width="75%">
