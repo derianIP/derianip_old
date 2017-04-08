@@ -11,7 +11,10 @@ icon: icon-html
 
 **Project Management Information System**
 
-This Project is my project in 2017, i create this website using CodeIgniter and MySQL database.
+This Project is my project in 2017, i create this website using CodeIgniter and MySQL database. This Website using 3 Method Project Mangement:
+1. Precedence Diagraming Method (PDM).
+2. Erned Value Management (EVM).
+3. Probability Impact Matrix (PIM).
 
 Other Tools: 
  * Bootstrap 3.
