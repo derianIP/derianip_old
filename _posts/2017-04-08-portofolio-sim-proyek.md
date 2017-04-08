@@ -5,7 +5,7 @@ date:   2017-01-31
 desc: "Sistem Informasi Manajemen Proyek using CodeIgniter"
 keywords: "Sistem informasi, manajemen Proyek, codeigniter"
 categories: [Portofolio]
-tags: [Jalpc,Jekyll]
+tags: [Sistem Informasi,CodeIgniter]
 icon: icon-html
 ---
 
