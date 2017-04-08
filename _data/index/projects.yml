@@ -18,15 +18,15 @@
 - name: Project Management Information System
   i18n: MP
   img: /static/assets/img/landing/putra-pratma.JPG
-  desc: This Project is my project in 2017, i create this website for a company.
+  desc: This Project is my project in 2017, i create this website for a company using CodeIgniter.
   
 - name: Customer Relationship Management Web Application
   i18n: CRM
   img: /static/assets/img/landing/mg15.JPG
-  desc: This Project is my project in 2016, i create this website for  MG15 Car Wash.
+  desc: This Project is my project in 2016, i create this website for  MG15 Car Wash using CodeIgniter.
   
 - name: Company Profile And Forum
   i18n: Forum
   img: /static/assets/img/landing/ben.JPG
-  desc: This Project is my project in 2015. i create this website for a company.
+  desc: This Project is my project in 2015. i create this website for a company using native PHP.
 
