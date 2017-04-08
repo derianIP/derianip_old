@@ -25,6 +25,8 @@ Other Tools:
  * Select2
  * pdfmake
 
+ Screenshoot.
+* 
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<img src="{{ site.img_path }}/sim-proyek/beranda.JPG" width="75%">
 
