@@ -25,10 +25,8 @@ Other Tools:
  * Select2
  * pdfmake
 
-1. Screenshoot Project
-
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
-	<img src="{{ site.img_path }}/sim-proyek/beranda.JPG" width="75%">
+	![]<img src="{{ site.img_path }}/sim-proyek/beranda.JPG" width="75%">
 
 	<img src="{{ site.img_path }}/sim-proyek/pekerjaan.JPG" width="75%">
 
