@@ -25,9 +25,11 @@
   i18n: CRM
   img: /static/assets/img/landing/mg15.JPG
   desc: This Project is my project in 2016, i create this website using CodeIgniter and MySQL.
+  url: https://derianip.github.io/portofolio/2017/04/07/portofolio-crm.html
   
 - name: Company Profile And Forum
   i18n: Forum
   img: /static/assets/img/landing/ben.JPG
   desc: This Project is my project in 2015. i create this website using native PHP and MySQL.
+  url: https://derianip.github.io/portofolio/
 
