@@ -17,13 +17,13 @@ This Project is my project in 2017, i create this website using CodeIgniter and 
 3. Probability Impact Matrix (PIM).
 
 Other Tools: 
- * [Bootstrap 3] (http://getbootstrap.com/).
- * [echarts] (https://ecomfe.github.io/echarts/index-en.html).
- * [chartjs] (http://www.chartjs.org/).
- * [fusioncharts] (http://www.fusioncharts.com/). 
- * [font-awesome] (http://fontawesome.io/icons/).
- * [Select2] (https://select2.github.io/).
- * [pdfmake] (http://pdfmake.org/).
+ * [Bootstrap 3](http://getbootstrap.com/).
+ * [echarts](https://ecomfe.github.io/echarts/index-en.html).
+ * [chartjs](http://www.chartjs.org/).
+ * [fusioncharts](http://www.fusioncharts.com/). 
+ * [font-awesome](http://fontawesome.io/icons/).
+ * [Select2](https://select2.github.io/).
+ * [pdfmake](http://pdfmake.org/).
 
  Screenshoot.
 * 
