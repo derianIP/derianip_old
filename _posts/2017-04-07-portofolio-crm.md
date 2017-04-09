@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Customer Relationship Management"
-date:   2017-04-09
+date:   2017-04-07
 desc: "Customer Relationship Management using CodeIgniter"
 keywords: "Customer Relationship Management, CodeIgniter"
 categories: [Portofolio]
