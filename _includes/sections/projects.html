@@ -23,7 +23,7 @@
                   {% if project.repo %}
                   <a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
                   {% else %}
-                  <span class="navy">{{ project.name }}</span>
+                  <span class="navy"><a href="{{ project.url }}">{{ project.name }}</a></span>
                   {% endif %}
                   </h4>
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }} <a href="{{ project.url }}"> More details </a></span></p>
